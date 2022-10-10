@@ -2,3 +2,4 @@
 sistema de cadastro de jogos
 > status projeto em desenvolvimento 
 para rodar esse projeto na sua propria maquina por favor digiti "npm install"
+....
